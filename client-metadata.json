@@ -1,0 +1,18 @@
+{
+  "client_id": "https://raw.githubusercontent.com/theoaep/six-clip-studio-identity/main/client-metadata.json",
+  "client_name": "Six Clip Studio",
+  "client_uri": "https://six-clip-studio-signin.safe-coati-9498.chatgpt.site",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1:8976/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "openid offline_access"
+}
